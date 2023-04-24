@@ -29,6 +29,10 @@ Yonsei University
 ## Research experience
 ---
 
+**Summer 2022**<br>
+Visiting reaserch at Queen's University, Canada<br>
+*Relevant Publications: <a href="../publications/23_DCFS" class="uline"> Han et al. 2023</a>,<a href"../publications/23_DLT" class="uline">Kim et al. 2023</a>*<br>
+
 **2022 - Present**<br>
 Researcher at ToC lab<br>
 *Relevant Publications: <a href="../publications/22_DCFS" class="uline">Kim et al. 2022</a>,<a href="../publications/22_ISAAC" class="uline">Kim et al. 2022</a>*<br>
