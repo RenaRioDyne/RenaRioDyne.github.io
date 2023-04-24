@@ -52,7 +52,7 @@ Yo-Sub Han, **Sungmin Kim**, Sang-Ki Ko, and Kai Salomaa. “Existential and Uni
 
 ## Awards and Honors
 ---
-Summa Cum Laude (Undergraduate), *February 2022*<br>
+Highest Honors at Graduation (Undergraduate), *February 2022*<br>
 
 
 ## Talks and Presentations
