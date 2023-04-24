@@ -23,7 +23,7 @@ Yonsei University<br>
 *Advisor: Prof. Yo-Sub Han*
 
 **2017-2021**<br>
-B.A. in English Language and Literature / B.E. in Computer Science (double major)<br>
+B.A. in English Language and Literature / B.S. in Computer Science (double major)<br>
 Yonsei University
 
 ## Research experience
