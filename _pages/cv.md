@@ -43,10 +43,10 @@ Undergrad research intern at ToC lab<br>
 
 ## Publications
 ---
-**Sungmin Kim**, Yo-Sub Han, Sang-Ki Ko, and Kai Salomaa. "On Simon's Congruence Closure of a String", DCFS 2022.<br>
-**Sungmin Kim**, Sang-Ki Ko, and Yo-Sub Han. "Simon's Congruence Pattern Matching", ISAAC 2022.<br>
-**Sungmin Kim**, Yo-Sub Han, Sang-Ki Ko, and Kai Salomaa. "On the Simon's Congruence Neighborhood of Languages", DLT 2023.<br>
-Yo-Sub Han, **Sungmin Kim**, Sang-Ki Ko, and Kai Salomaa. “Existential and Universal Width of Alternating Finite Automata”, DCFS 2023.
+**S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On Simon's Congruence Closure of a String", DCFS 2022.<br>
+**S. Kim**, S.-K. Ko, and Y.-S. Han. "Simon's Congruence Pattern Matching", ISAAC 2022.<br>
+**S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On the Simon's Congruence Neighborhood of Languages", DLT 2023.<br>
+Y.-S. Han, **S. Kim**, S.-K. Ko, and K. Salomaa. “Existential and Universal Width of Alternating Finite Automata”, DCFS 2023.
 
 
 
