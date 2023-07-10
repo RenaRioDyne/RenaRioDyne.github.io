@@ -13,8 +13,8 @@ who is the head of the [Yonsei ToC lab](https://toc.yonsei.ac.kr/).
 Currently, my main research interests are string algorithms (with a focus on Simon's congruence) and finite state machines.
 
 ## Professional
-I am currently in my third semester in the integrated course.
-Through coursework, I am learning about online algorithms and NLP systems this semester.
+I just finished my third semester in the integrated course.
+Through coursework, I learned about online algorithms and NLP systems last semester.
 While doing so, I am continuing my research on string algorithms.
 
 

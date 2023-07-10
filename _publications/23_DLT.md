@@ -2,9 +2,9 @@
 title: "On the Simon's Congruence Neighborhood of Languages"
 collection: publications
 permalink: /publications/conf3
-date: 2023-04-01
+date: 2023-06-12
 excerpt: "Another result on Simon's congruence, this time between languages."
-venue: "DCFS'23 (to appear)"
+venue: "DLT'23"
 classes: wide
 ---
 ## Contribution
@@ -25,6 +25,7 @@ that makes two given languages ≡k -congruent. This problem is PSPACE-
 complete for two regular languages, and undecidable for context-free
 languages.
 
+[Download paper here](https://link.springer.com/chapter/10.1007/978-3-031-33264-7_14)
 
 ## Recommended citation:
-Sungmin Kim, Yo-Sub Han, Sang-Ki Ko, and Kai Salomaa. "On the Simon's Congruence Neighborhood of Languages." International Conference on Developments in Language Theory (DLT), to appear, 2023.
+Sungmin Kim, Yo-Sub Han, Sang-Ki Ko, and Kai Salomaa. "On the Simon's Congruence Neighborhood of Languages." International Conference on Developments in Language Theory (DLT), 2023.
