@@ -31,6 +31,7 @@ Yonsei University
 
 **Summer 2023**<br>
 Visiting reaserch at Göttingen University, Germany<br>
+*Relevant Publications: <a href="../publications/23_RP" class="uline">Fleischmann et al. 2023</a>*<br>
 
 **Summer 2022**<br>
 Visiting reaserch at Queen's University, Canada<br>
@@ -49,7 +50,8 @@ Undergrad research intern at ToC lab<br>
 **S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On Simon's Congruence Closure of a String", DCFS 2022.<br>
 **S. Kim**, S.-K. Ko, and Y.-S. Han. "Simon's Congruence Pattern Matching", ISAAC 2022.<br>
 **S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On the Simon's Congruence Neighborhood of Languages", DLT 2023.<br>
-Y.-S. Han, **S. Kim**, S.-K. Ko, and K. Salomaa. “Existential and Universal Width of Alternating Finite Automata”, DCFS 2023.
+Y.-S. Han, **S. Kim**, S.-K. Ko, and K. Salomaa. “Existential and Universal Width of Alternating Finite Automata”, DCFS 2023.<br>
+P. Fleischmann, **S. Kim**, T. Koß, F. Manea, D. Nowotka, S. Siemer, and M. Wiedenhöft. "Matching Patterns with Variables Under Simon's Congruence", RP 2023.
 
 
 
