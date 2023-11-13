@@ -1,17 +1,17 @@
 ---
 title: "On Simon's Congruence Closure of a String"
 collection: publications
-permalink: /publications/conf1
+permalink: /publications/jour1
 excerpt: "My first conference paper, possible from the support of three great professors."
-date: 2022-08-22
-venue: "DCFS'22"
+date: 2023-09-13
+venue: "Theoretical Computer Science (DCFS'22 special issue)"
 classes: wide
 ---
 ## Summary
 Read the abstract.
 
 ## Contribution
-This is my first accepted conference paper! I am the main author for this paper.
+The journalized version of my first conference paper.
 
 ## Abstract
 Two strings are Simon’s ~k-congruent if they have the same set of subsequences of length at most k.
@@ -24,7 +24,7 @@ Finally, we design a polynomial-time algorithm that answers the following open p
 decide whether there exists a string v∈L such that w~kv.”
 The problem is NP-complete for a variable-sized alphabet.
 
-[Conference paper link](https://link.springer.com/chapter/10.1007/978-3-031-13257-5_10)
+[Journal paper link](https://www.sciencedirect.com/science/article/pii/S0304397523003912?via%3Dihub)
 
 ## Recommended citation:
-Sungmin Kim, Yo-Sub Han, Sang-Ki Ko, and Kai Salomaa. "On Simon's Congruence Closure of a String." International Conference on Descriptional Complexity of Formal Systems (DCFS), pp.127--141, 2022.
+Sungmin Kim, Yo-Sub Han, Sang-Ki Ko, and Kai Salomaa. "On Simon's Congruence Closure of a String." Theoretical Computer Science (TCS), 2023.
