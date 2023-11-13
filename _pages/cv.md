@@ -47,15 +47,15 @@ Undergrad research intern at ToC lab<br>
 
 ## Publications
 ---
-**Conference papers**
-**S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On Simon's Congruence Closure of a String", DCFS 2022.<br>
-**S. Kim**, S.-K. Ko, and Y.-S. Han. "Simon's Congruence Pattern Matching", ISAAC 2022.<br>
-**S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On the Simon's Congruence Neighborhood of Languages", DLT 2023.<br>
-Y.-S. Han, **S. Kim**, S.-K. Ko, and K. Salomaa. “Existential and Universal Width of Alternating Finite Automata”, DCFS 2023.<br>
-P. Fleischmann, **S. Kim**, T. Koß, F. Manea, D. Nowotka, S. Siemer, and M. Wiedenhöft. "Matching Patterns with Variables Under Simon's Congruence", RP 2023.
+**Conference papers**<br>
+- **S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On Simon's Congruence Closure of a String", DCFS 2022.<br>
+- **S. Kim**, S.-K. Ko, and Y.-S. Han. "Simon's Congruence Pattern Matching", ISAAC 2022.<br>
+- **S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On the Simon's Congruence Neighborhood of Languages", DLT 2023.<br>
+- Y.-S. Han, **S. Kim**, S.-K. Ko, and K. Salomaa. “Existential and Universal Width of Alternating Finite Automata”, DCFS 2023.<br>
+- P. Fleischmann, **S. Kim**, T. Koß, F. Manea, D. Nowotka, S. Siemer, and M. Wiedenhöft. "Matching Patterns with Variables Under Simon's Congruence", RP 2023.<br>
 
-**Journal papers**
-**S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On Simon's Congruence Closure of a String", TCS 2023.
+**Journal papers**<br>
+- **S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On Simon's Congruence Closure of a String", TCS 2023.
 
 
 ## Awards and Honors
@@ -65,8 +65,8 @@ Highest Honors at Graduation (Undergraduate), *February 2022*<br>
 
 ## Talks and Presentations
 ---
-"Optimal Auction Design: Myerson's Theorem", Yonsei CS Theory Study Group Seminar, *March 2023*<br>
-"Shor's Algorithm", Yonsei CS Theory Study Group Seminar, *October 2023*
+- "Optimal Auction Design: Myerson's Theorem", Yonsei CS Theory Study Group Seminar, *March 2023*<br>
+- "Shor's Algorithm", Yonsei CS Theory Study Group Seminar, *October 2023*
 
 
 ## Teaching
@@ -74,6 +74,7 @@ Highest Honors at Graduation (Undergraduate), *February 2022*<br>
 **Spring 2023**<br>
 Teaching Assistant<br>
 *Automata and Formal Languages*<br>
+
 **Fall 2023**<br>
 Teaching Assistant<br>
 *Data Structures*

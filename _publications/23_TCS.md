@@ -1,8 +1,8 @@
 ---
-title: "On Simon's Congruence Closure of a String"
+title: "[Journal] On Simon's Congruence Closure of a String"
 collection: publications
 permalink: /publications/jour1
-excerpt: "My first conference paper, possible from the support of three great professors."
+excerpt: "The journalized version of my first conference paper."
 date: 2023-09-13
 venue: "Theoretical Computer Science (DCFS'22 special issue)"
 classes: wide
