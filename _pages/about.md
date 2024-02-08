@@ -14,7 +14,7 @@ Currently, my main research interests are string algorithms (with a focus on Sim
 
 ## Professional
 This is my fifth semester in the integrated course.
-I am continuing my research on string algorithms.
+I am continuing my research on string algorithms and learning more about quantum computing.
 From this semester, I lead the Yonsei theory study group with [Changyeol Lee](https://chang-yeol.github.io/). The topics for this semester are TBD.
 
 ## Personal
