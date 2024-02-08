@@ -13,9 +13,9 @@ who is the head of the [Yonsei ToC lab](https://toc.yonsei.ac.kr/).
 Currently, my main research interests are string algorithms (with a focus on Simon's congruence), quantum algorithms and finite state machines.
 
 ## Professional
-This is my fourth semester in the integrated course.
+This is my fifth semester in the integrated course.
 I am continuing my research on string algorithms.
-I am also participating in the Yonsei theory study group, where we are studying quantum computing this semester.
+From this semester, I lead the Yonsei theory study group with [Changyeol Lee](https://chang-yeol.github.io/). The topics for this semester are TBD.
 
 ## Personal
 I am an avid fan of video games.
