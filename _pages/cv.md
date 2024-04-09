@@ -18,7 +18,7 @@ a.uline {text-decoration:underline;}
 ## Education
 ---
 **2022-In Progress**<br>
-M.S./Ph.D. in Theoretical Computer Science<br>
+M.S./Ph.D. Candidate in Theoretical Computer Science<br>
 Yonsei University<br>
 *Advisor: Prof. Yo-Sub Han*
 
@@ -48,13 +48,14 @@ Undergrad research intern at ToC lab<br>
 ## Publications
 ---
 **Conference papers**<br>
-- **S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On Simon's Congruence Closure of a String", DCFS 2022.<br>
-- **S. Kim**, S.-K. Ko, and Y.-S. Han. "Simon's Congruence Pattern Matching", ISAAC 2022.<br>
-- **S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On the Simon's Congruence Neighborhood of Languages", DLT 2023.<br>
-- Y.-S. Han, **S. Kim**, S.-K. Ko, and K. Salomaa. “Existential and Universal Width of Alternating Finite Automata”, DCFS 2023.<br>
 - P. Fleischmann, **S. Kim**, T. Koß, F. Manea, D. Nowotka, S. Siemer, and M. Wiedenhöft. "Matching Patterns with Variables Under Simon's Congruence", RP 2023.<br>
+- Y.-S. Han, **S. Kim**, S.-K. Ko, and K. Salomaa. “Existential and Universal Width of Alternating Finite Automata”, DCFS 2023.<br>
+- **S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On the Simon's Congruence Neighborhood of Languages", DLT 2023.<br>
+- **S. Kim**, S.-K. Ko, and Y.-S. Han. "Simon's Congruence Pattern Matching", ISAAC 2022.<br>
+- **S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On Simon's Congruence Closure of a String", DCFS 2022.<br>
 
 **Journal papers**<br>
+- **S. Kim**, S.-K. Ko, and Y.-S. Han. "Simon's Congruence Pattern Matching", TCS 2023.
 - **S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On Simon's Congruence Closure of a String", TCS 2023.
 
 
@@ -65,16 +66,21 @@ Highest Honors at Graduation (Undergraduate), *February 2022*<br>
 
 ## Talks and Presentations
 ---
-- "Optimal Auction Design: Myerson's Theorem", Yonsei CS Theory Study Group Seminar, *March 2023*<br>
+- "The Rate Distortion Theory", Yonsei CS Theory Study Group Seminar, *April 2024*
 - "Shor's Algorithm", Yonsei CS Theory Study Group Seminar, *October 2023*
+- "Optimal Auction Design: Myerson's Theorem", Yonsei CS Theory Study Group Seminar, *March 2023*<br>
 
 
 ## Teaching
 ---
-**Spring 2023**<br>
+**Spring 2024**<br>
 Teaching Assistant<br>
 *Automata and Formal Languages*<br>
 
 **Fall 2023**<br>
 Teaching Assistant<br>
 *Data Structures*
+
+**Spring 2023**<br>
+Teaching Assistant<br>
+*Automata and Formal Languages*<br>
