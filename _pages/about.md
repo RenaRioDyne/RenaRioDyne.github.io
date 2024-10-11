@@ -13,7 +13,7 @@ who is the head of the [Yonsei ToC lab](https://toc.yonsei.ac.kr/).
 Currently, my main research interests are string algorithms (with a focus on Simon's congruence), finite state machines, and deep learning from the automata theory perspective.
 
 ## Professional
-I just ended my fifth semester in the integrated course.
+I am in the sixth semester in the integrated course.
 I am continuing my research on string algorithms.
 I lead the [Yonsei theory student group](https://yonsei-cs-theory-students.github.io/) with [Changyeol Lee](https://chang-yeol.github.io/).
 

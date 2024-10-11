@@ -48,6 +48,7 @@ Undergrad research intern at ToC lab<br>
 ## Publications
 ---
 **Conference papers**<br>
+- **S. Kim** and Y.-S. Han. “Approximate Cartesian Tree Pattern Matching”, DLT 2024.<br>
 - P. Fleischmann, **S. Kim**, T. Koß, F. Manea, D. Nowotka, S. Siemer, and M. Wiedenhöft. "Matching Patterns with Variables Under Simon's Congruence", RP 2023.<br>
 - Y.-S. Han, **S. Kim**, S.-K. Ko, and K. Salomaa. “Existential and Universal Width of Alternating Finite Automata”, DCFS 2023.<br>
 - **S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On the Simon's Congruence Neighborhood of Languages", DLT 2023.<br>
@@ -66,21 +67,23 @@ Highest Honors at Graduation (Undergraduate), *February 2022*<br>
 
 ## Talks and Presentations
 ---
-- "The Rate Distortion Theory", Yonsei CS Theory Study Group Seminar, *April 2024*
-- "Shor's Algorithm", Yonsei CS Theory Study Group Seminar, *October 2023*
-- "Optimal Auction Design: Myerson's Theorem", Yonsei CS Theory Study Group Seminar, *March 2023*<br>
+- "Orthogonal Range Searching", Yonsei CS Theory Student Group Seminar, *October 2024*
+- "Information Theory in Practice: the JPEG Algorithm", Yonsei CS Theory Student Group Seminar, *May 2024*
+- "The Rate Distortion Theory", Yonsei CS Theory Student Group Seminar, *April 2024*
+- "Shor's Algorithm", Yonsei CS Theory Student Group Seminar, *October 2023*
+- "Optimal Auction Design: Myerson's Theorem", Yonsei CS Theory Student Group Seminar, *March 2023*<br>
 
 
 ## Teaching
 ---
-**Spring 2024**<br>
+**Fall 2024**<br>
 Teaching Assistant<br>
-*Automata and Formal Languages*<br>
+*Theory of Computation*<br>
 
 **Fall 2023**<br>
 Teaching Assistant<br>
 *Data Structures*
 
-**Spring 2023**<br>
+**Spring 2023, Spring 2024**<br>
 Teaching Assistant<br>
 *Automata and Formal Languages*<br>
