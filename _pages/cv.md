@@ -48,6 +48,7 @@ Undergrad research intern at ToC lab<br>
 ## Publications
 ---
 **Conference papers**<br>
+- **S. Kim** and Y.-S. Han. “Pattern Mining Under Simon's Congruence", DLT 2025, to appear.<br>
 - **S. Kim** and Y.-S. Han. “Approximate Cartesian Tree Pattern Matching”, DLT 2024.<br>
 - P. Fleischmann, **S. Kim**, T. Koß, F. Manea, D. Nowotka, S. Siemer, and M. Wiedenhöft. "Matching Patterns with Variables Under Simon's Congruence", RP 2023.<br>
 - Y.-S. Han, **S. Kim**, S.-K. Ko, and K. Salomaa. “Existential and Universal Width of Alternating Finite Automata”, DCFS 2023.<br>
