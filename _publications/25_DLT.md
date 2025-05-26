@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/conf6
 date: 2025-05-25
 excerpt: "Solving the pattern mining problem for Simon's congruence."
-venue: "DLT'25"
+venue: "DLT'25 (to appear)"
 classes: wide
 ---
 ## Contribution
