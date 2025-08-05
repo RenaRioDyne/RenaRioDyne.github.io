@@ -13,7 +13,7 @@ who is the head of the [Yonsei ToC lab](https://toc.yonsei.ac.kr/).
 Currently, my main research interests are pattern matching algorithms (with a focus on Simon's congruence and Cartesian trees) and finite state machines.
 
 ## Professional
-I am in the seventh semester in the integrated course.
+I am in my fourth year in the integrated course.
 I am continuing my research on string algorithms.
 I lead the [Yonsei theory student group](https://yonsei-cs-theory-students.github.io/) with [Changyeol Lee](https://chang-yeol.github.io/).
 

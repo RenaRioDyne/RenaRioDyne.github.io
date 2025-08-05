@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/jour3
 excerpt: "Matching Cartesian trees in the approximate setting, using the edit-distance approach. In computing the edit distance, we achieve a linear speedup compared to the conference version of the paper. The speedup is based on the fast computation of the max-min convolution between two monotonic arrays."
 date: 2025-08-04
-venue: "Theoretical Computer Science"
+venue: "Theoretical Computer Science (to appear)"
 classes: wide
 ---
 ## Summary
