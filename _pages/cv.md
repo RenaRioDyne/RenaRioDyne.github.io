@@ -79,6 +79,10 @@ Highest Honors at Graduation (Undergraduate), *February 2022*<br>
 
 ## Teaching
 ---
+**Fall 2025**<br>
+Teaching Assistant<br>
+*Analysis of Algorithms*<br>
+
 **Fall 2024**<br>
 Teaching Assistant<br>
 *Theory of Computation*<br>
