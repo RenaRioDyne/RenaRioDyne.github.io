@@ -48,7 +48,7 @@ Undergrad research intern at ToC lab<br>
 ## Publications
 ---
 **Conference papers**<br>
-- **S. Kim** and Y.-S. Han. “Pattern Mining Under Simon's Congruence", DLT 2025, to appear.<br>
+- **S. Kim** and Y.-S. Han. “Pattern Mining Under Simon's Congruence", DLT 2025.<br>
 - **S. Kim** and Y.-S. Han. “Approximate Cartesian Tree Pattern Matching”, DLT 2024.<br>
 - P. Fleischmann, **S. Kim**, T. Koß, F. Manea, D. Nowotka, S. Siemer, and M. Wiedenhöft. "Matching Patterns with Variables Under Simon's Congruence", RP 2023.<br>
 - Y.-S. Han, **S. Kim**, S.-K. Ko, and K. Salomaa. “Existential and Universal Width of Alternating Finite Automata”, DCFS 2023.<br>
@@ -57,8 +57,8 @@ Undergrad research intern at ToC lab<br>
 - **S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On Simon's Congruence Closure of a String", DCFS 2022.<br>
 
 **Journal papers**<br>
-- Y.-S. Han, **S. Kim**, S.-K. Ko, and K. Salomaa. “Existential and Universal Width of Alternating Finite Automata”, Information and Computation 2025, to appear.<br>
-- **S. Kim** and Y.-S. Han. "Approximate Cartesian tree pattern matching", Theoretical Computer Science 2025, to appear.<br>
+- Y.-S. Han, **S. Kim**, S.-K. Ko, and K. Salomaa. “Existential and Universal Width of Alternating Finite Automata”, Information and Computation 2025.<br>
+- **S. Kim** and Y.-S. Han. "Approximate Cartesian tree pattern matching", Theoretical Computer Science 2025.<br>
 - **S. Kim**, S.-K. Ko, and Y.-S. Han. "Simon's Congruence Pattern Matching", Theoretical Computer Science 2023.<br>
 - **S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On Simon's Congruence Closure of a String", Theoretical Computer Science 2023.<br>
 
