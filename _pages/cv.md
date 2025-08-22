@@ -18,7 +18,7 @@ a.uline {text-decoration:underline;}
 ## Education
 ---
 **2022-In Progress**<br>
-M.S./Ph.D. Candidate in Theoretical Computer Science<br>
+Ph.D. Candidate in Theoretical Computer Science<br>
 Yonsei University<br>
 *Advisor: Prof. Yo-Sub Han*
 
