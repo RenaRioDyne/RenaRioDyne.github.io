@@ -57,6 +57,7 @@ Undergrad research intern at ToC lab<br>
 - **S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On Simon's Congruence Closure of a String", DCFS 2022.<br>
 
 **Journal papers**<br>
+- P. Fleischmann, **S. Kim**, T. Koß, F. Manea, D. Nowotka, S. Siemer, and M. Wiedenhöft. "Matching Patterns with Variables Under Simon's Congruence", accepted.<br>
 - Y.-S. Han, **S. Kim**, S.-K. Ko, and K. Salomaa. “Existential and Universal Width of Alternating Finite Automata”, Information and Computation 2025.<br>
 - **S. Kim** and Y.-S. Han. "Approximate Cartesian tree pattern matching", Theoretical Computer Science 2025.<br>
 - **S. Kim**, S.-K. Ko, and Y.-S. Han. "Simon's Congruence Pattern Matching", Theoretical Computer Science 2023.<br>

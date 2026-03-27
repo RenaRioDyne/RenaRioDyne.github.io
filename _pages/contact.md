@@ -7,4 +7,4 @@ classes: wide
 ---
 
 Here's my contact info:<br>
-rena_rio@yonsei.ac.kr
+rena {underbar} rio {at} yonsei {dot} ac {dot} kr
