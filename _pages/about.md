@@ -19,6 +19,7 @@ for pattern matching problems under various string equivalences, such as the Sim
 On the other hand, I am also interested in decidability problems for strings and formal languages.
 
 # News
+* \[May 2026\] Two papers "Decomposing regular languages under shuffle along trajectories" and "Pattern matching under R-congruence" have been accepted for CIAA 2026!
 * \[Mar. 2026\] The journal paper "Matching Patterns with Variables under Simon's Congruence" is accepted for publication!
 * \[Nov. 2025\] The journal paper "Approximate Cartesian Tree Pattern Matching" is published in Theoretical Computer Science!
 * \[Sep. 2025\] The journal paper "Existential and Universal Width of Alternating Finite Automata" is published in Information and Computation!

@@ -20,17 +20,18 @@ a.uline {text-decoration:underline;}
 **2022-In Progress**<br>
 Ph.D. Candidate in Theoretical Computer Science<br>
 Yonsei University<br>
-*Advisor: Prof. Yo-Sub Han*
+*Advisor: Prof. Yo-Sub Han*<br>
+*Expected graduation: August 2026*<br>
 
 **2017-2021**<br>
-B.A. in English Language and Literature / B.S. in Computer Science (double major)<br>
+B.A. in English Language and Literature / B.S.E. in Computer Science (double major)<br>
 Yonsei University
 
 ## Research experience
 ---
 
 **Summer 2023**<br>
-Visiting reaserch at Göttingen University, Germany<br>
+Visiting reaserch at the University of Göttingen, Germany<br>
 *Relevant Publications: <a href="../publications/23_RP" class="uline">Fleischmann et al. 2023</a>*<br>
 
 **Summer 2022**<br>
@@ -42,12 +43,14 @@ Researcher at ToC lab<br>
 *Relevant Publications: <a href="../publications/22_DCFS" class="uline">Kim et al. 2022</a>,<a href="../publications/22_ISAAC" class="uline">Kim et al. 2022</a>*<br>
 
 **2020 - 2021**<br>
-Undergrad research intern at ToC lab<br>
+Undergraduate research intern at ToC lab<br>
 
 
 ## Publications
 ---
 **Conference papers**<br>
+- **S. Kim**, H. Jin and Y.-S. Han. "Pattern matching under R-congruence", CIAA 2026.<br>
+- **S. Kim**, H. Hong, T. Lim, Y.-S. Han and K. Salomaa. "Decomposing regular languages under shuffle along trajectories", CIAA 2026.<br>
 - **S. Kim** and Y.-S. Han. “Pattern Mining Under Simon's Congruence", DLT 2025.<br>
 - **S. Kim** and Y.-S. Han. “Approximate Cartesian Tree Pattern Matching”, DLT 2024.<br>
 - P. Fleischmann, **S. Kim**, T. Koß, F. Manea, D. Nowotka, S. Siemer, and M. Wiedenhöft. "Matching Patterns with Variables Under Simon's Congruence", RP 2023.<br>
@@ -66,16 +69,30 @@ Undergrad research intern at ToC lab<br>
 
 ## Awards and Honors
 ---
-Highest Honors at Graduation (Undergraduate), *February 2022*<br>
+- Highest Honors at Graduation (Undergraduate), *February 2022*<br>
+- Performance and merit awards / scholarships during BA/BSE studies
 
 
 ## Talks and Presentations
 ---
+- "3SUM-hard Problems in Computational Geometry", Yonsei CS Theory Student Group Seminar, *December 2024*
 - "Orthogonal Range Searching", Yonsei CS Theory Student Group Seminar, *October 2024*
+- "Cartesian Tree Edit Distance", Yonsei CS Theory Student Group Seminar, *July 2024*
 - "Information Theory in Practice: the JPEG Algorithm", Yonsei CS Theory Student Group Seminar, *May 2024*
 - "The Rate Distortion Theory", Yonsei CS Theory Student Group Seminar, *April 2024*
+- "Basics of Simon's Congruence", Yonsei CS Theory Student Group Seminar, *January 2024*
 - "Shor's Algorithm", Yonsei CS Theory Student Group Seminar, *October 2023*
-- "Optimal Auction Design: Myerson's Theorem", Yonsei CS Theory Student Group Seminar, *March 2023*<br>
+- "Alternating Finite Automata", University of Göttingen, *July 2023*
+- "Optimal Auction Design for the Seller's Auction Design Problem", Yonsei CS Theory Student Group Seminar, *March 2023*
+- Conferences: DLT'25, DLT'24, DCFS'23, DLT'23, DCFS'22 (online), ISAAC'22
+- Workshops: WAAC'24, FWAC'23<br>
+
+
+## Academic Activities and Services
+- Reviewer for conferences: DLT / CIAA / DCFS / STACS / ISAAC
+- Reviewer for journals: Computer Science Review / Journal of Automata, Languages and Combinatorics / Theoretical Computer Science / International Journal of Foundations of Computer Science
+- Co-organized Yonsei CS Theory Student Group Seminars, *2024--today*
+- Problem author for ICPC regional (Asia, Seoul), *2022--2025*
 
 
 ## Teaching

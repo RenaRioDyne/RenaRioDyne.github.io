@@ -6,7 +6,8 @@ author_profile: true
 classes: wide
 ---
 
-Clicking on any of the links below will redirect you to the abstract and details of my contributions.
+Currently not up-to-date; renewal incoming.
+For now, please refer to the publication list in the CV tab.
 
 {% include base_path %}
 
