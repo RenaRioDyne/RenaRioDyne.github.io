@@ -28,4 +28,4 @@ On the other hand, I am also interested in decidability problems for strings and
 * Feb. 2026: I hit a 1000 day streak on Duolingo!
 * I am a punny guy but these Korean jokes don't translate to English very well.
 
-Last updated: 2026 March
+Last updated: 2026 May
