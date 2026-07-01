@@ -1,0 +1,46 @@
+{% assign p = include.pub %}
+
+<div class="pub-item{% if p.selected %} pub-item--selected{% endif %}">
+  <span class="pub-text">
+    <span class="pub-title-nostar">
+      <a href="{{ p.url | relative_url }}">{{ p.title }},<br></a>
+    </span>
+
+    {% if p.coauthors %}
+      <span class="pub-coauthors">{{ p.coauthors }}<br></span>
+    {% endif %}
+
+    <span class="pub-meta">
+      {% if p.bookfullname %}
+        {% if p.toappear %}
+          To appear in 
+        {% else %}
+          In 
+        {% endif %}
+        <em>{{ p.bookfullname }}</em>
+        {% if p.toappear %}
+        {% else %}
+          , Vol. {{ p.volume }}, {{ p.pages }}, {{ p.month }} {{ p.year }}
+        {% endif %}
+      {% endif %}
+    </span>
+
+    {% if p.paperurl %}
+      <span class="pub-links">
+        [<a href="{{ p.paperurl }}">paper</a>]
+      </span>
+    {% endif %}
+
+    {% if p.slidesurl %}
+      <span class="pub-links">
+        [<a href="{{ p.slidesurl }}">slides</a>]
+      </span>
+    {% endif %}
+
+    {% if p.codeurl %}
+      <span class="pub-links">
+        [<a href="{{ p.codeurl }}">code</a>]
+      </span>
+    {% endif %}
+  </span>
+</div>

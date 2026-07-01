@@ -31,3 +31,80 @@
 .cv_font {
   font-size: .65em;
 }
+
+.pub-list {
+  margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.pub-item {
+  font-size: 0.82em;
+  line-height: 1.35;
+  margin-bottom: 0.45rem;
+}
+
+.pub-title {
+  font-weight: 600;
+}
+
+.pub-title-nostar {
+  font-weight: 600;
+}
+
+.pub-meta,
+.pub-coauthors {
+  color: #666;
+}
+
+.pub-list--selected {
+  padding: 0.75rem 1rem;
+  border-left: 4px solid #0292ca;
+  background: #f7fbfd;
+  margin-bottom: 2rem;
+}
+
+.pub-list--selected .pub-item {
+  margin-bottom: 0.25rem;
+  margin-top: 0.25rem;
+}
+
+.pub-item--selected .pub-title::before {
+  content: "*";
+}
+
+.publication-info {
+  font-size: 0.9em;
+  color: #666;
+  margin-bottom: 1.25rem;
+}
+
+.publication-info p {
+  margin-bottom: 0.25rem;
+}
+
+.publication-links a {
+  text-decoration: none;
+}
+
+.publication-links a:hover {
+  text-decoration: underline;
+}
+
+.pub-item {
+  display: flex;
+  align-items: flex-start;
+  font-size: 0.82em;
+  line-height: 1.35;
+  margin-bottom: 0.45rem;
+}
+
+.pub-number {
+  flex: 0 0 2em;
+  font-weight: 600;
+  color: #555;
+}
+
+.pub-text {
+  flex: 1;
+  min-width: 0;
+}
