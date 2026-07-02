@@ -17,7 +17,7 @@ a.uline {text-decoration:underline;}
 
 ## Education
 ---
-**2022-In Progress**<br>
+**2022-2026**<br>
 Ph.D. Candidate in Theoretical Computer Science<br>
 Yonsei University<br>
 *Advisor: Prof. Yo-Sub Han*<br>
@@ -31,11 +31,11 @@ Yonsei University
 ---
 
 **Summer 2023**<br>
-Visiting reaserch at the University of Göttingen, Germany<br>
+Visiting reaserch at the University of Göttingen, Germany (3 weeks)<br>
 *Relevant Publications: <a href="../publications/23_RP" class="uline">Fleischmann et al. 2023</a>*<br>
 
 **Summer 2022**<br>
-Visiting reaserch at Queen's University, Canada<br>
+Visiting reaserch at Queen's University, Canada (3 weeks)<br>
 *Relevant Publications: <a href="../publications/23_DCFS" class="uline">Han et al. 2023</a>,<a href="../publications/23_DLT" class="uline">Kim et al. 2023</a>*<br>
 
 **2022 - Present**<br>

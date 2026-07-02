@@ -64,9 +64,27 @@ classes: wide
 
             {% if page.venue and page.year %}
               {% if page.type == "conference" %}
-                Presented at {{ page.venue }}.
+                {% if page.toappear %}
+                  To be presented at {{ page.venue }}.
+                {% else %}
+                  Presented at {{ page.venue }}.
+                {% endif %}
               {% else %}
-                Published in <em>{{ page.bookfullname }}</em>, {{ page.year }}.
+                {% if page.toappear %}
+                  To be published in <em>{{ page.bookfullname }}</em>, {{ page.year }}.
+                {% else %}
+                  Published in <em>{{ page.bookfullname }}</em>, {{ page.year }}.
+                {% endif %}
+              {% endif %}
+            {% else %}
+              {% if page.type == "conference" %}
+                {% if page.toappear %}
+                  Accepted for presentation.
+                {% endif %}
+              {% else %}
+                {% if page.toappear %}
+                  Accepted for publication.
+                {% endif %}
               {% endif %}
             {% endif %}
 

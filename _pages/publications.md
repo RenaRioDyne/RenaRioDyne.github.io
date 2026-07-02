@@ -8,14 +8,15 @@ classes: wide
 
 {% include base_path %}
 
-{% assign selected_pubs = site.publications | where: "selected", true | sort: "year" | reverse %}
-{% assign conference_pubs = site.publications | where: "type", "conference" | sort: "year" | reverse %}
-{% assign journal_pubs = site.publications | where: "type", "journal" | sort: "year" | reverse %}
+{% assign selected_pubs = site.publications | where: "selected", true | sort: "date" | reverse %}
+{% assign conference_pubs = site.publications | where: "type", "conference" | sort: "date" | reverse %}
+{% assign journal_pubs = site.publications | where: "type", "journal" | sort: "date" | reverse %}
 
-!! still under construction !! this is not a full list of publications.
+{% assign conference_count = conference_pubs | size %}
+{% assign journal_count = journal_pubs | size %}
 
 <small>
-Click on each paper to see a detailed description. Select publications are marked
+Click on each paper to see a detailed description. Selected publications are marked
 with a star.
 </small>
 
@@ -34,7 +35,8 @@ with a star.
 
 <div class="pub-list">
 {% for pub in journal_pubs %}
-  {% include journal-item.html pub=pub number=forloop.index prefix="J" %}
+  {% assign jour_number = journal_count | minus: forloop.index0 %}
+  {% include journal-item.html pub=pub number=jour_number %}
 {% endfor %}
 </div>
 
@@ -42,6 +44,7 @@ with a star.
 
 <div class="pub-list">
 {% for pub in conference_pubs %}
-  {% include conference-item.html pub=pub number=forloop.index %}
+  {% assign conf_number = conference_count | minus: forloop.index0 %}
+  {% include conference-item.html pub=pub number=conf_number %}
 {% endfor %}
 </div>

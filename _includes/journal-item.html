@@ -17,12 +17,18 @@
     {% endif %}
 
     <span class="pub-meta">
-      {% if p.bookfullname %}
-        {% if p.toappear %}
+      {% if p.toappear %}
+        {% if p.bookfullname %}
           To appear in <em>{{ p.bookfullname }}</em>
         {% else %}
-          In <em>{{ p.bookfullname }}</em>, Vol. {{ p.volume }}, {{ p.pages }}, {{ p.month }} {{ p.year }}
+          Accepted for publication.
         {% endif %}
+      {% else %}
+        In <em>{{ p.bookfullname }}</em>, 
+        {% if p.volume %}
+        Vol. {{ p.volume }},
+        {% endif %}
+        {{ p.pages }}, {{ p.month }} {{ p.year }}
       {% endif %}
     </span>
 
