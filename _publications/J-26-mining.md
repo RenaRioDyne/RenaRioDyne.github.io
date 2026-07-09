@@ -1,21 +1,22 @@
 ---
 title: "Pattern mining under Simon's congruence"
 collection: publications
-date: 2025-08-17
-type: conference
-venue: "DLT'25"
-year: 2025
-bookfullname: "Proceedings of the 29th International Conference on Developments in Language Theory"
+date: 2026-07-09
+type: journal
+venue: "I&C"
+year: 2026
+bookfullname: "Information and Computation"
 coauthors: "Sungmin Kim and Yo-Sub Han"
-selected: false
-toappear: false
-pages: "pp. 182--196"
+selected: true
+toappear: true
+pages: 
 volume: 
-month: August
-paperurl: "https://link.springer.com/chapter/10.1007/978-3-032-01475-7_13"
+month: 
+paperurl: 
 slidesurl:
 codeurl:
 ---
+
 
 ## Definitions
 <strong>Simon's congruence:</strong> For an integer $k$,
@@ -41,4 +42,4 @@ that maximizes the number of matches with respect to each $k$.
 Simon's congruence, pattern mining, string algorithm, data structure, lowest common ancestor
 </small>
 
-[link to journal version](/publications/J-26-mining)
+[link to conference version](/publications/C-25-mining)
