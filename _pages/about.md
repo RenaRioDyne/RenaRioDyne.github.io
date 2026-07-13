@@ -12,7 +12,7 @@ I am a theoretical computer scientist enrolled in the M.S./Ph.D. integrated cour
 Since March 2022, I am a member of the [Theory of Computation lab](https://toc.yonsei.ac.kr/)
 under the supervision of professor [Yo-Sub Han](https://toc.yonsei.ac.kr/~emmous/).
 My expected graduation is in August 2026.<br>
-Starting from October, I will be working as a postdoctoral researcher at the [Institute of Computer Science](https://www.uni-goettingen.de/en/institute+of+computer+science/619480.html), [University of Göttingen](https://www.uni-goettingen.de/en/1.html) with professor [Florin Manea](https://flmanea.blogspot.com/). Duration: Oct. 1st, 2026--June 30th, 2027.
+\[Oct. 2026 -- June 2027\] I will be working as a postdoctoral researcher at the [Institute of Computer Science](https://www.uni-goettingen.de/en/institute+of+computer+science/619480.html), [University of Göttingen](https://www.uni-goettingen.de/en/1.html) with professor [Florin Manea](https://flmanea.blogspot.com/).
 
 ## Research Interests
 My main research interest lies in (but not confined to) solving algorithmic problems for strings and finite state machines.
