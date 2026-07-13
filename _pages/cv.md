@@ -15,6 +15,12 @@ a.uline {text-decoration:underline;}
 
 <a href="../files/cv.pdf" class="uline">Click here for a full pdf copy of my CV</a>
 
+## Employment
+---
+
+**2026.10 -- 2027.06**<br>
+Postdoctoral researcher at the University of Göttingen, Germany<br>
+
 ## Education
 ---
 **2022-2026**<br>
@@ -26,13 +32,6 @@ Yonsei University<br>
 **2017-2021**<br>
 B.A. in English Language and Literature / B.S.E. in Computer Science (double major)<br>
 Yonsei University
-
-## Employment
----
-
-**2026.10 --**<br>
-Postdoctoral researcher at the University of Göttingen, Germany<br>
-
 
 ## Publications
 ---
