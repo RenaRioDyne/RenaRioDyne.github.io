@@ -7,7 +7,7 @@ venue: "CIAA'26"
 year: 2026
 bookfullname: "Proceedings of the 30th International Conference on Implementation and Application of Automata"
 coauthors: "Sungmin Kim, Hyundong Jin and Yo-Sub Han"
-selected: true
+selected: false
 toappear: false
 pages: "pp. 108--123"
 volume: 
