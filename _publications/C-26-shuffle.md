@@ -1,18 +1,18 @@
 ---
 title: "Decomposing regular languages under shuffle along trajectories"
 collection: publications
-date: 2026-07-02
+date: 2026-08-16
 type: conference
 venue: "CIAA'26"
 year: 2026
 bookfullname: "Proceedings of the 30th International Conference on Implementation and Application of Automata"
 coauthors: "Sungmin Kim, Hyunki Hong, Taeryung Lim, Yo-Sub Han and Kai Salomaa"
 selected: false
-toappear: true
-pages: 
+toappear: false
+pages: "pp. 92--107"
 volume: 
 month: August
-paperurl: 
+paperurl: "https://link.springer.com/chapter/10.1007/978-3-032-31176-4_7"
 slidesurl:
 codeurl:
 ---

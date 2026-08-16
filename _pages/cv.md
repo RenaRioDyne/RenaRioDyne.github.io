@@ -23,13 +23,13 @@ Postdoctoral researcher at the University of Göttingen, Germany<br>
 
 ## Education
 ---
-**2022-2026**<br>
+**2022.03-2026.08**<br>
 Ph.D. in Theoretical Computer Science<br>
 Yonsei University<br>
 *Advisor: Prof. Yo-Sub Han*<br>
 *Dissertation title: Pattern Matching Under Simon's Congruence*<br>
 
-**2017-2021**<br>
+**2017.03-2022.02**<br>
 B.A. in English Language and Literature / B.S.E. in Computer Science (double major)<br>
 Yonsei University
 
@@ -37,7 +37,7 @@ Yonsei University
 ---
 **Journal papers**<br>
 - **S. Kim** and Y.-S. Han. "Pattern Mining Under Simon's Congruence", accepted for publication in Information and Computation 2026.<br>
-- P. Fleischmann, **S. Kim**, T. Koß, F. Manea, D. Nowotka, S. Siemer, and M. Wiedenhöft. "Matching Patterns with Variables Under Simon's Congruence", accepted.<br>
+- P. Fleischmann, **S. Kim**, T. Koß, F. Manea, D. Nowotka, S. Siemer, and M. Wiedenhöft. "Matching Patterns with Variables Under Simon's Congruence", accepted for publication in Journal of Automata, Languages and Combinatorics.<br>
 - Y.-S. Han, **S. Kim**, S.-K. Ko, and K. Salomaa. “Existential and Universal Width of Alternating Finite Automata”, Information and Computation 2025.<br>
 - **S. Kim** and Y.-S. Han. "Approximate Cartesian tree pattern matching", Theoretical Computer Science 2025.<br>
 - **S. Kim**, S.-K. Ko, and Y.-S. Han. "Simon's Congruence Pattern Matching", Theoretical Computer Science 2023.<br>
@@ -72,7 +72,7 @@ Yonsei University
 - "Shor's Algorithm", Yonsei CS Theory Student Group Seminar, *October 2023*
 - "Alternating Finite Automata", University of Göttingen, *July 2023*
 - "Optimal Auction Design for the Seller's Auction Design Problem", Yonsei CS Theory Student Group Seminar, *March 2023*
-- Conferences: DLT'25, DLT'24, DCFS'23, DLT'23, DCFS'22 (online), ISAAC'22
+- Conferences: CIAA'26, DLT'25, DLT'24, DCFS'23, DLT'23, DCFS'22 (online), ISAAC'22
 - Workshops: WAAC'24, FWAC'23<br>
 
 

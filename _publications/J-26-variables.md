@@ -3,9 +3,9 @@ title: "Matching patterns with variables under Simon’s congruence"
 collection: publications
 date: 2026-07-02
 type: journal
-venue: 
+venue: "JALC"
 year: 2026
-bookfullname: 
+bookfullname: "Journal of Automata, Languages and Combinatorics"
 coauthors: "Pamela Fleischmann, Sungmin Kim, Tore Koß, Florin Manea, Dirk Nowotka, Stefan Siemer and Max Wiedenhöft"
 selected: false
 toappear: true
