@@ -86,7 +86,7 @@ Yonsei University
 ## Teaching
 ---
 **Fall 2026**<br>
-Team Teaching<br>
+Lecturer<br>
 *Algorithms for Competitive Programming*<br>
 
 **Fall 2025**<br>
