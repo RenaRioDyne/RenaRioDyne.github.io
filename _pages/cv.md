@@ -36,28 +36,29 @@ Yonsei University
 ## Publications
 ---
 **Journal papers**<br>
-- P. Fleischmann, **S. Kim**, T. Koß, F. Manea, D. Nowotka, S. Siemer, and M. Wiedenhöft. "Matching Patterns with Variables Under Simon's Congruence", accepted for publication in Journal of Automata, Languages and Combinatorics.<br>
-- **S. Kim** and Y.-S. Han. "Pattern Mining Under Simon's Congruence", Information and Computation 2026.<br>
-- Y.-S. Han, **S. Kim**, S.-K. Ko, and K. Salomaa. “Existential and Universal Width of Alternating Finite Automata”, Information and Computation 2025.<br>
+- P. Fleischmann, **S. Kim**, T. Koß, F. Manea, D. Nowotka, S. Siemer, and M. Wiedenhöft. "Matching patterns with variables under Simon's congruence", accepted for publication in Journal of Automata, Languages and Combinatorics.<br>
+- **S. Kim** and Y.-S. Han. "Pattern mining under Simon's congruence", Information and Computation 2026.<br>
+- Y.-S. Han, **S. Kim**, S.-K. Ko, and K. Salomaa. “Existential and universal width of alternating finite automata”, Information and Computation 2025.<br>
 - **S. Kim** and Y.-S. Han. "Approximate Cartesian tree pattern matching", Theoretical Computer Science 2025.<br>
-- **S. Kim**, S.-K. Ko, and Y.-S. Han. "Simon's Congruence Pattern Matching", Theoretical Computer Science 2023.<br>
-- **S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On Simon's Congruence Closure of a String", Theoretical Computer Science 2023.<br>
+- **S. Kim**, S.-K. Ko, and Y.-S. Han. "Simon's congruence pattern matching", Theoretical Computer Science 2023.<br>
+- **S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On Simon's congruence closure of a string", Theoretical Computer Science 2023.<br>
 
 **Conference papers**<br>
 - **S. Kim**, H. Jin and Y.-S. Han. "Pattern matching under R-congruence", CIAA 2026.<br>
 - **S. Kim**, H. Hong, T. Lim, Y.-S. Han and K. Salomaa. "Decomposing regular languages under shuffle along trajectories", CIAA 2026.<br>
-- **S. Kim** and Y.-S. Han. “Pattern Mining Under Simon's Congruence", DLT 2025.<br>
-- **S. Kim** and Y.-S. Han. “Approximate Cartesian Tree Pattern Matching”, DLT 2024.<br>
-- P. Fleischmann, **S. Kim**, T. Koß, F. Manea, D. Nowotka, S. Siemer, and M. Wiedenhöft. "Matching Patterns with Variables Under Simon's Congruence", RP 2023.<br>
-- Y.-S. Han, **S. Kim**, S.-K. Ko, and K. Salomaa. “Existential and Universal Width of Alternating Finite Automata”, DCFS 2023.<br>
-- **S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On the Simon's Congruence Neighborhood of Languages", DLT 2023.<br>
-- **S. Kim**, S.-K. Ko, and Y.-S. Han. "Simon's Congruence Pattern Matching", ISAAC 2022.<br>
-- **S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On Simon's Congruence Closure of a String", DCFS 2022.<br>
+- **S. Kim** and Y.-S. Han. “Pattern mining under Simon's congruence", DLT 2025.<br>
+- **S. Kim** and Y.-S. Han. “Approximate Cartesian tree pattern matching”, DLT 2024.<br>
+- P. Fleischmann, **S. Kim**, T. Koß, F. Manea, D. Nowotka, S. Siemer, and M. Wiedenhöft. "Matching patterns with variables under Simon's congruence", RP 2023.<br>
+- Y.-S. Han, **S. Kim**, S.-K. Ko, and K. Salomaa. “Existential and universal width of alternating finite automata”, DCFS 2023.<br>
+- **S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On the Simon's congruence neighborhood of languages", DLT 2023.<br>
+- **S. Kim**, S.-K. Ko, and Y.-S. Han. "Simon's congruence pattern matching", ISAAC 2022.<br>
+- **S. Kim**, Y.-S. Han, S.-K. Ko, and K. Salomaa. "On Simon's congruence closure of a string", DCFS 2022.<br>
 
 
-## Awards and Honors
+## Awards and Scholarships
 ---
-- Highest Honors at Graduation (Undergraduate), *February 2022*<br>
+- Postdoc Fellowship 2026, *University of Göttingen*<br>
+- Highest Honors at Graduation (Undergraduate), *Yonsei University*<br>
 - Performance and merit awards / scholarships during BA/BSE studies
 
 
