@@ -36,8 +36,8 @@ Yonsei University
 ## Publications
 ---
 **Journal papers**<br>
-- **S. Kim** and Y.-S. Han. "Pattern Mining Under Simon's Congruence", accepted for publication in Information and Computation 2026.<br>
 - P. Fleischmann, **S. Kim**, T. Koß, F. Manea, D. Nowotka, S. Siemer, and M. Wiedenhöft. "Matching Patterns with Variables Under Simon's Congruence", accepted for publication in Journal of Automata, Languages and Combinatorics.<br>
+- **S. Kim** and Y.-S. Han. "Pattern Mining Under Simon's Congruence", Information and Computation 2026.<br>
 - Y.-S. Han, **S. Kim**, S.-K. Ko, and K. Salomaa. “Existential and Universal Width of Alternating Finite Automata”, Information and Computation 2025.<br>
 - **S. Kim** and Y.-S. Han. "Approximate Cartesian tree pattern matching", Theoretical Computer Science 2025.<br>
 - **S. Kim**, S.-K. Ko, and Y.-S. Han. "Simon's Congruence Pattern Matching", Theoretical Computer Science 2023.<br>

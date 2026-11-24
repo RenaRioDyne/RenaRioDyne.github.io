@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 classes: wide
 ---
-I am a postdoctoral researcher in the [Theoretical Computer Science Group](https://www.uni-goettingen.de/de/618738.html) at the [University of Göttingen](https://www.uni-goettingen.de/en/1.html).
+I am a postdoctoral researcher in the [Theoretische Informatik Group](https://www.uni-goettingen.de/de/618738.html) at the [University of Göttingen](https://www.uni-goettingen.de/en/1.html).
 I am currently working with professor [Florin Manea](https://flmanea.blogspot.com/)
 on string algorithms and pattern matching with variables.
 I received my PhD in Computer Science
@@ -17,7 +17,7 @@ under the supervision of professor [Yo-Sub Han](https://toc.yonsei.ac.kr/~emmous
 
 
 ## Research Interests
-My main research interest lies in (but not confined to) solving algorithmic problems for strings and finite state machines.
+My main research interest lies in (but not confined to) solving **algorithmic problems for sequences**.
 On the one hand, I am interested in designing efficient algorithms
 for pattern matching problems under various string equivalences, such as the Simon's congruence.
 On the other hand, I am also interested in decidability problems for strings and formal languages.
@@ -34,4 +34,4 @@ On the other hand, I am also interested in decidability problems for strings and
 * Feb. 2026: I hit a 1000 day streak on Duolingo!
 * I am a punny guy but these Korean jokes don't translate to English very well.
 
-Last updated: 2026 October
+Last updated: 2026 November

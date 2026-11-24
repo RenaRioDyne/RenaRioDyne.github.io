@@ -8,11 +8,11 @@ year: 2026
 bookfullname: "Information and Computation"
 coauthors: "Sungmin Kim and Yo-Sub Han"
 selected: true
-toappear: true
-pages: 
-volume: 
-month: 
-paperurl: 
+toappear: false
+pages: 105506
+volume: 313
+month: December
+paperurl: "10.1016/j.ic.2026.105506"
 slidesurl:
 codeurl:
 ---
